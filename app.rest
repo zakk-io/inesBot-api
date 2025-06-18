@@ -1,0 +1,15 @@
+POST http://127.0.0.1:5000/api/rooms/9969423d-1802-47e8-bc05-3c744cc9e241/messages
+Content-Type: application/json
+
+{
+    "sender": "bot",
+    "text": "hi new user"
+}
+
+
+
+###
+
+GET http://127.0.0.1:5000/api/rooms/9969423d-1802-47e8-bc05-3c744cc9e241/messages
+
+
