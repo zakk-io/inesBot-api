@@ -1,12 +1,22 @@
+# Ignore virtual environment folders
 venv/
 bin/
 lib/
 lib64/
 include/
+
+# Python cache & compiled files
 __pycache__/
-pyvenv.cfg
 *.pyc
 *.pyo
 *.pyd
-*.db
+
+# Environment variables
 .env
+
+# Database or temp files
+*.db
+
+# VS Code or IDE specific (optional)
+.vscode/
+.idea/
