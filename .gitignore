@@ -1,1 +1,12 @@
+venv/
+bin/
+lib/
+lib64/
+include/
+__pycache__/
+pyvenv.cfg
+*.pyc
+*.pyo
+*.pyd
+*.db
 .env
