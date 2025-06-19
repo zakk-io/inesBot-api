@@ -4,6 +4,13 @@ This project is the backend API service for the **INES-Ruhengeri University chat
 
 ---
 
+## Try it here 👇
+[https://inesbot-client.onrender.com/](https://inesbot-client.onrender.com/)
+![Screenshot](./assets/screenshot.png)
+---
+
+
+
 ## 📦 Features
 - 🌐 CORS enabled for frontend communication, is open api just use it
 - 💾 MongoDB database integration
